@@ -56,7 +56,7 @@ ESP32-S3-with-Gemini-and-custom-persona/
 3. Set your Google Gemini API Key in `.env`:
    ```env
    GEMINI_API_KEY=your_actual_gemini_api_key_here
-   GEMINI_LIVE_MODEL=gemini-2.5-flash-native-audio-latest
+   GEMINI_LIVE_MODEL=gemini-3.1-flash-live
    PORT=8008
    ```
 4. Start the server:
